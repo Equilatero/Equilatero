@@ -5,4 +5,4 @@
 * HTML & CSS
 
   
-Atualmente na Etec Centro Paulo Souza
+I'm currently studying at Etec Centro Paulo Souza.
