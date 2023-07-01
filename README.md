@@ -1,4 +1,4 @@
-# 👋 | Olá
+# 👋 | Hello
 * Python
 * Lua
 * C++
