@@ -1,2 +1,5 @@
-# Spacyous
-Config files for my GitHub profile.
+# 👋 | Olá
+* Python
+* Lua
+* C++
+* HTML & CSS
