@@ -1,15 +1,13 @@
 # 👋 | Hello World
-Cursando Desenvolvimento de Sistemas
 
 
-**Habilidades**
+**Skills**
 
-[![habilidades](https://skillicons.dev/icons?i=python,lua,cpp,js,html,css)](https://skillicons.dev)
+[![habilidades](https://skillicons.dev/icons?i=python,mongodb,lua,cpp,js,html,css)](https://skillicons.dev)
 
 
-**Ferramentas**
+**Tools**
 
-[![ferramentas](https://skillicons.dev/icons?i=discord,figma,mongodb,replit,vscode,github)](https://skillicons.dev)
+[![ferramentas](https://skillicons.dev/icons?i=discord,figma,replit,vscode,github)](https://skillicons.dev)
 
-![](https://dcbadge.vercel.app/api/shield/634908192404668426)
   
